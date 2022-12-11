@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Production Companies:"; ObjectID = "00M-mm-izI"; */
+"00M-mm-izI.text" = "Production Companies:";
+
+/* Class = "UILabel"; text = "lang"; ObjectID = "5ec-kC-kQU"; */
+"5ec-kC-kQU.text" = "lang";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5iX-mC-IAP"; */
+"5iX-mC-IAP.text" = "Title";
+
+/* Class = "UILabel"; text = "Budget"; ObjectID = "Ajm-y7-VJN"; */
+"Ajm-y7-VJN.text" = "Budget";
+
+/* Class = "UILabel"; text = "Revenue"; ObjectID = "F1u-O7-zzQ"; */
+"F1u-O7-zzQ.text" = "Revenue";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "GLi-QN-zva"; */
+"GLi-QN-zva.text" = "Genre";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "GPv-MW-IiB"; */
+"GPv-MW-IiB.text" = "date";
+
+/* Class = "UILabel"; text = "original_title"; ObjectID = "ORS-gl-7EC"; */
+"ORS-gl-7EC.text" = "original_title";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "SHX-E0-Cfq"; */
+"SHX-E0-Cfq.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Link"; ObjectID = "XIb-gH-OBl"; */
+"XIb-gH-OBl.text" = "Link";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xz8-GB-HfO"; */
+"Xz8-GB-HfO.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "cad-iK-bvx"; */
+"cad-iK-bvx.title" = "Favoriler";
+
+/* Class = "UILabel"; text = "runtime"; ObjectID = "fgp-A6-ELy"; */
+"fgp-A6-ELy.text" = "runtime";
+
+/* Class = "UILabel"; text = "Cast:"; ObjectID = "hDR-FK-Qkj"; */
+"hDR-FK-Qkj.text" = "Cast:";
+
+/* Class = "UITabBarItem"; title = "Popular"; ObjectID = "n6Q-ox-Z2g"; */
+"n6Q-ox-Z2g.title" = "Popular";
+
+/* Class = "UILabel"; text = "Recommendations:"; ObjectID = "nIr-r0-I4A"; */
+"nIr-r0-I4A.text" = "Recommendations:";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "oQo-uN-of3"; */
+"oQo-uN-of3.text" = "Overview";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "sQP-vX-bZj"; */
+"sQP-vX-bZj.title" = "Item";

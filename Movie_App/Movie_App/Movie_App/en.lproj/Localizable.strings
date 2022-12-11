@@ -1,0 +1,23 @@
+/* 
+ Localizable.strings
+ Movie_App
+ 
+ Created by Bahadir Alacan on 9.08.2022.
+ 
+ */
+
+"budget" = "Budget: ";
+"hour" = "h ";
+"minute" = "m";
+"revenue" = "Revenue: ";
+"recommendations" = "Recommendations:";
+"cast" = "Cast:";
+"productionCompanies" = "Production Companies";
+"imdbScore" = "\nIMDB Score: ";
+"tabbarPopular" = "Popular";
+"tabbarFavorite" = "Favorites";
+"searchFieldPlaceholder" = "Search";
+"dataNotFound" = "No Data";
+"birthday" = "Birthday: ";
+"deathday" = "Deathday: ";
+"birthPlace" = "Birthplace: ";

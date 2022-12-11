@@ -1,0 +1,23 @@
+/* 
+ Localizable.strings
+ Movie_App
+ 
+ Created by Bahadir Alacan on 9.08.2022.
+ 
+ */
+
+"budget" = "Bütçe: ";
+"hour" = "s ";
+"minute" = "d";
+"revenue" = "Gelir: ";
+"recommendations" = "Öneriler: ";
+"cast" = "Oyuncular:";
+"productionCompanies" = "Yapımevleri:";
+"imdbScore" = "\nIMDB Puanı: ";
+"tabbarPopular" = "Popüler";
+"tabbarFavorite" = "Favoriler";
+"searchFieldPlaceholder" = "Ara";
+"dataNotFound" = "Veri Yok";
+"birthday" = "Doğum Günü: ";
+"deathday" = "Ölüm Günü: ";
+"birthPlace" = "Doğum Yeri: ";
